@@ -38,7 +38,7 @@ function AllRasp() {
       
                             <div id="timeText12" className='table-box' style={{   }}>
                             <div id='myElement' className='upercaseall'> Нечетная неделя</div>
-                            <div className='upercase3'>Занятий нет.</div>
+                            <div className='upercase3'>Занятий нет</div>
 
                               </div>
       
@@ -111,7 +111,7 @@ function AllRasp() {
                 <div id="timeText31" className='table-box' style={{   }}>
                 <p className='upercase1'>Среда</p>
                             <div id='myElement' className='upercaseall'> Четная неделя</div>
-                            <div className='upercase3'>Занятий нет.</div>
+                            <div className='upercase3'>Занятий нет</div>
                             </div>
       
                             <div id="timeText32" className='table-box' style={{   }}>

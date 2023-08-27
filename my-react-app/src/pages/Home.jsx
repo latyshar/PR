@@ -41,7 +41,7 @@ function Home () {
 
                       <div id="timeText12" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement' className='upercase'> Нечетная неделя</div>
-                      <div className='upercase3'>Занятий нет.</div>
+                      <div className='upercase3'>Занятий нет</div>
                         </div>
 
 
@@ -111,7 +111,7 @@ function Home () {
           <div id="timeText3" style={{ display: 'none'  }}>
           <div id="timeText31" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement' className='upercase'> Четная неделя</div>
-                      <div className='upercase3'>Занятий нет.</div>
+                      <div className='upercase3'>Занятий нет</div>
                       </div>
 
                       <div id="timeText32" className='table-box' style={{ display: 'none' }}>
@@ -353,7 +353,7 @@ function Home () {
                       </div>
 
                           <div id="timeText7" style={{ display: 'none' }}>
-                          <div className='upercase3'>Занятий нет.</div>
+                          <div className='upercase3'>Занятий нет</div>
                           </div> 
                           </div> 
   )
