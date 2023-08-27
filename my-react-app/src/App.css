@@ -59,7 +59,7 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-  font-size: 20px;
+  font-size: 24px;
   color:#950740;
   font-weight:100;
   padding-top: 10px;
@@ -73,13 +73,13 @@ width: 100%;
 
 .milky {
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
-  font-size: 48px;
-  font-weight: 900;
-  color: #950740 ;
-  text-shadow: 0 8px 9px #6F2232, 0px -2px 1px #C3073F;
+  font-size: 46px;
+  font-weight: 800;
+  color: #950740; ;
+  text-shadow: 0 4px 9px #950740, 0px -2px 1px #99183f;
   letter-spacing: -1px;
   text-align: center;
   padding-top: 7px;
-  padding-bottom: 7px;
+  padding-bottom: 3px;
 }
 
