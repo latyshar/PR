@@ -12,10 +12,10 @@ function Check (values = defaultValues) {
         console.log(week);
         if (week % 2) { 
         document.getElementById("myElement").style.color = "#950740";
-        document.getElementById("myElement").style.fontWeight = "900";
+
     } else { 
         document.getElementById("myElement").style.color = "#950740";
-        document.getElementById("myElement").style.fontWeight = "900";
+     
         } 
         },
         [values] 
