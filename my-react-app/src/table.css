@@ -27,7 +27,7 @@ table {
     margin-bottom: 1vh;
     padding: 0;
     width: 50%;
-    white-space: break-word;
+    
     table-layout: fixed;
   }
   
@@ -47,14 +47,14 @@ table {
   table td {
     padding: .625em;
     text-align: center;
-    white-space: break-word;
+    
     
   }
   
   table th {
     font-size: .85em;
     letter-spacing: .1em;
-    white-space: break-word;
+    
     text-transform: uppercase;
   }
   .kvadrat{
@@ -88,7 +88,7 @@ table {
     table tr {
       border-bottom: 3px solid #30303378;
       display: block;
-      white-space: break-word;
+      
       padding: 10px;
       
     }
@@ -98,7 +98,7 @@ table {
       display: block;
       font-size: .8em;
       text-align: left;
-      white-space: break-word;
+      
       margin: 10px;
       
     }
@@ -112,7 +112,7 @@ table {
       content: attr(data-label);
       float: left;
       font-weight: bold;
-      white-space: break-word;
+      
       text-transform: uppercase;
     }
     
@@ -123,8 +123,3 @@ table {
 
   
   
-  /* general styling */
-  body {
- 
-    line-height: 1.25;
-  }
