@@ -1,0 +1,29 @@
+.mainNav {
+    height: 107px;
+    max-width: 100%;
+    margin: 0;
+   
+    top: 0;
+    text-transform: uppercase;
+    background-color: #1A1A1D;
+    text-align: center; 
+   
+  box-shadow: 0 0 4px 0 #000000, 0 0 4px 0 #000105;
+   
+ 
+    &__logo {
+       font-weight: 800;
+       letter-spacing: 1px;
+       font-size: 18px;
+
+    }
+ }
+ .m {
+    text-decoration:none;
+    color: #ffffff43;
+    padding: 15px;
+ }
+ 
+ a.text:hover{
+    color: rgb(167, 61, 73);; /* Меняем цвет текста */
+ }

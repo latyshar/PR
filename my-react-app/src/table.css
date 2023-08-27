@@ -1,0 +1,131 @@
+.table-container {
+    
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+.table-box {
+justify-content: center;
+align-items: center;
+}
+
+.color1{
+  background-color: #4e4e5078;
+  color: rgba(255, 255, 255, 0.459);
+
+}
+.color2{
+  background-color: #4e4e5078;
+  color: rgba(255, 255, 255, 0.459);
+
+}
+table {
+    border: 1px solid #1A1A1D;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-bottom: 1vh;
+    padding: 0;
+    width: 50%;
+    height: 30%;
+    white-space: break-word;
+    table-layout: fixed;
+  }
+  
+  table caption {
+    font-size: 1.5em;
+    margin: .5em 0 .75em;
+  }
+  
+  table tr {
+
+    border: 1px solid #1A1A1D;
+   
+    padding: .35em;
+  }
+  
+  table th,
+  table td {
+    padding: .625em;
+    text-align: center;
+    white-space: break-word;
+    
+  }
+  
+  table th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    white-space: break-word;
+    text-transform: uppercase;
+  }
+  .kvadrat{
+    background-color:  #00000043 ;
+    width: 100%;
+    padding-bottom: 7px;
+  }
+  @media screen and (max-width: 900px) {
+    table {
+      border: 0;
+      
+  
+    }
+  
+    table caption {
+      font-size: 1.3em;
+      
+    }
+    
+    table thead {
+      border: none;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+    
+    table tr {
+      border-bottom: 3px solid #30303378;
+      display: block;
+      white-space: break-word;
+      padding: 10px;
+      
+    }
+    
+    table td {
+      border-bottom: 1px solid #1A1A1D;
+      display: block;
+      font-size: .8em;
+      text-align: left;
+      white-space: break-word;
+      margin: 10px;
+      
+    }
+  
+    
+    table td::before {
+      /*
+      * aria-label has no advantage, it won't be read inside a table
+      content: attr(aria-label);
+      */
+      content: attr(data-label);
+      float: left;
+      font-weight: bold;
+      white-space: break-word;
+      text-transform: uppercase;
+    }
+    
+    table td:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  
+  
+  /* general styling */
+  body {
+ 
+    line-height: 1.25;
+  }
