@@ -25,7 +25,7 @@ table {
     border-collapse: collapse;
     margin: 0 auto;
     margin-bottom: 1vh;
-    padding: 0;
+    padding: 4px;
     width: 50%;
     
     table-layout: fixed;
@@ -86,7 +86,7 @@ table {
     }
     
     table tr {
-      border-bottom: 3px solid #30303378;
+      border-bottom: 0;
       display: block;
       
       padding: 10px;
