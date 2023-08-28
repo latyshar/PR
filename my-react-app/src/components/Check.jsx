@@ -20,13 +20,17 @@ function Check (values = defaultValues) {
             document.getElementById('myElement9').classList.add('upercase1');  
             document.getElementById('myElement11').classList.add('upercase1');    
 
+
+           
+
     } else { 
         document.getElementById('myElement2').classList.add('upercase1');
         document.getElementById('myElement4').classList.add('upercase1');
         document.getElementById('myElement6').classList.add('upercase1');
         document.getElementById('myElement8').classList.add('upercase1');  
         document.getElementById('myElement10').classList.add('upercase1');  
-        document.getElementById('myElement12').classList.add('upercase1');      
+        document.getElementById('myElement12').classList.add('upercase1');
+             
         } 
         },
         [values] 

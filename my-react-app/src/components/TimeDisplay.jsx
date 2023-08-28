@@ -21,7 +21,7 @@ const day = date.getDate();
 
 
 // Форматирование вывода времени 
-const formattedTime = `Сегодня ${weekday}, ${month}, ${day} число!`; 
+const formattedTime = `Сегодня ${weekday}, ${month} ${day} число!`; 
 
 
 if (weekday === "понедельник") {

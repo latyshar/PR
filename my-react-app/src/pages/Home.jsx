@@ -19,7 +19,7 @@ function Home () {
   
   <div id="timeText11" className='table-box' style={{ display: 'none' }}>
                     < Check/> <div id='myElement1' className='upercase'> Нечетная неделя</div>
-                      <table className="color1"> 
+                      <table  id='table1' className="color1"> 
 
                         <thead>
                           <tr>
@@ -54,7 +54,7 @@ function Home () {
 
       <div id="timeText21" className='table-box' style={{ display: 'none' }}>
        <div id='myElement3' className='upercase'> Нечетная неделя</div>
-                      <table className="color1"> 
+                      <table id='table2' className="color1"> 
 
                         <thead>
                           <tr>
@@ -79,7 +79,7 @@ function Home () {
 
                       <div id="timeText22" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement4' className='upercase'> Четная неделя</div>
-                      <table className="color2"> 
+                      <table id='table3' className="color1"> 
 
                               <thead>
                                 <tr>
@@ -119,7 +119,7 @@ function Home () {
 
                       <div id="timeText32" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement6' className='upercase'> Четная неделя</div>
-                      <table className="color2"> 
+                      <table id='table4' className="color1"> 
 
                               <thead>
                                 <tr>
@@ -155,7 +155,7 @@ function Home () {
 
               <div id="timeText41" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement7' className='upercase'> Нечетная неделя</div>
-                      <table className="color1"> 
+                      <table id='table5' className="color1"> 
 
                         <thead>
                           <tr>
@@ -186,7 +186,7 @@ function Home () {
 
                       <div id="timeText42" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement8' className='upercase'> Четная неделя</div>
-                      <table className="color2"> 
+                      <table id='table6' className="color1"> 
 
                               <thead>
                                 <tr>
@@ -222,7 +222,7 @@ function Home () {
 
                   <div id="timeText51" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement9' className='upercase'> Нечетная неделя</div>
-                      <table className="color1"> 
+                      <table id='table7' className="color1"> 
 
                         <thead>
                           <tr>
@@ -253,7 +253,7 @@ function Home () {
 
                       <div id="timeText52" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement10' className='upercase'> Четная неделя</div>
-                      <table className="color2"> 
+                      <table id='table8' className="color1"> 
 
                               <thead>
                                 <tr>
@@ -289,7 +289,7 @@ function Home () {
                       <div id="timeText6" className='table-container' style={{ display: 'none' }}> 
                       <div id="timeText61" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement11' className='upercase'> Нечетная неделя</div>
-                      <table className="color1"> 
+                      <table id='table9' className="color1"> 
 
                         <thead>
                           <tr>
@@ -325,7 +325,7 @@ function Home () {
 
                       <div id="timeText62" className='table-box' style={{ display: 'none' }}>
                       <div id='myElement12' className='upercase'> Четная неделя</div>
-                      <table className="color2"> 
+                      <table id='table10' className="color1"> 
 
                               <thead>
                                 <tr>
