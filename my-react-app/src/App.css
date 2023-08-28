@@ -24,8 +24,7 @@ width: 100%;
   font-size: 18px;
   color: #ffffff30;
   font-weight:100;
-  margin-top: 2vh;
-  padding: 10px;
+  padding-top: 12px;
 }
 .upercase
 {
@@ -35,6 +34,7 @@ width: 100%;
   color:#ffffff30;
   font-weight:900;
   padding: 10px;
+  
 }
 .upercaseall
 {

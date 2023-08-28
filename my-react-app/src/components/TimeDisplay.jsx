@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'; 
 
-
 var div;
 var mom;
 var mom2;
@@ -12,15 +11,10 @@ const intervalId = setInterval(() => {
 const date = new Date(); 
 
 
-
-// Получение информации о времени и дате 
 let weekday = date.toLocaleDateString('ru-RU', { weekday: 'long' }); 
 const month = date.toLocaleDateString('ru-RU', { month: 'long' }); 
 const day = date.getDate(); 
 
-
-
-// Форматирование вывода времени 
 const formattedTime = `Сегодня ${weekday}, ${month} ${day} число!`; 
 
 
