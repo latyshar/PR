@@ -72,9 +72,9 @@ width: 100%;
 
 
 .milky {
-  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
-  font-size: 46px;
+  font-size: 42px;
   font-weight: 800;
+  font-style: italic;
   color: #950740; ;
   text-shadow: 0 4px 9px #950740, 0px -2px 1px #99183f;
   letter-spacing: -1px;
