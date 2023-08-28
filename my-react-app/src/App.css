@@ -21,7 +21,7 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #ffffff30;
   font-weight:100;
   margin-top: 2vh;
@@ -40,8 +40,8 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-  font-size: 16px;
-  color:#ffffff66;
+  font-size: 18px;
+  color:#ffffff4a;
   font-weight:100;
   padding: 10px;
 }
@@ -49,7 +49,7 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color:#ffffff30;
   font-weight:100;
   padding: 10px;
