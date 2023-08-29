@@ -53,7 +53,7 @@ function Home () {
       <div id="timeText2" style={{ display: 'none'}}>
 
       <div id="timeText21" className='table-box' style={{ display: 'none' }}>
-      < CheckT/> <div id='myElement3' className='upercase'> Нечетная неделя</div>
+       <div id='myElement3' className='upercase'> Нечетная неделя</div>
                       <table className="color1"> 
 
                         <thead>
