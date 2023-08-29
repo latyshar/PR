@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'; 
 
+
 var div;
 var mom;
 var mom2;
@@ -18,20 +19,24 @@ const month = date.toLocaleDateString('ru-RU', { month: 'long' });
 const day = date.getDate(); 
 
 
+
 // Форматирование вывода времени 
 const formattedTime = `Сегодня ${weekday}, ${month}, ${day} число!`; 
 
 
 if (weekday === "понедельник") {
+  
     div = document.getElementById("timeText1");
     div.style.display = '';
     mom = document.getElementById("timeText11");
     mom.style.display = '';
     mom2 = document.getElementById("timeText12");
     mom2.style.display = '';
+    
 }
 
 else if (weekday ==="вторник") {
+    
     div = document.getElementById("timeText2");
     div.style.display = '';
     mom = document.getElementById("timeText21");
@@ -41,6 +46,7 @@ else if (weekday ==="вторник") {
 }
 
 else if (weekday === "среда") {
+    
     div = document.getElementById("timeText3");
     div.style.display = '';
     mom = document.getElementById("timeText31");
@@ -50,6 +56,7 @@ else if (weekday === "среда") {
 }
 
 else if (weekday === "четверг") {
+  
     div = document.getElementById("timeText4");
     div.style.display = '';
     mom = document.getElementById("timeText41");
@@ -58,6 +65,7 @@ else if (weekday === "четверг") {
     mom2.style.display = '';}
 
 else if (weekday === "пятница") {
+   
     div = document.getElementById("timeText5");
     div.style.display = '';
     mom = document.getElementById("timeText51");
@@ -66,6 +74,7 @@ else if (weekday === "пятница") {
     mom2.style.display = '';}
 
 else if (weekday === "суббота") {
+ 
     div = document.getElementById("timeText6");
     div.style.display = '';
     mom = document.getElementById("timeText61");

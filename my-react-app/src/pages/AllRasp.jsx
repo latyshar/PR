@@ -13,7 +13,7 @@ function AllRasp() {
         <div id="timeText1" className='kvadrat'>
         <div id="timeText11" className='table-box' style={{   }}>
         <p className='upercase1'>Понедельник</p>
-                            <div id='myElement' className='upercaseall'> Четная неделя</div>
+                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
                             <table className="color1"> 
       
                               <thead>
@@ -37,7 +37,7 @@ function AllRasp() {
                             </div>
       
                             <div id="timeText12" className='table-box' style={{   }}>
-                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
+                            <div id='myElement' className='upercaseall'> Четная неделя</div>
                             <div className='upercase3'>Занятий нет</div>
 
                               </div>
@@ -49,7 +49,7 @@ function AllRasp() {
       
             <div id="timeText21" className='table-box' style={{   }}>
                 <p className='upercase1'>Вторник</p>
-                            <div id='myElement' className='upercaseall'> Четная неделя</div>
+                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
                             <table className="color1"> 
       
                               <thead>
@@ -74,7 +74,7 @@ function AllRasp() {
                             </div>
       
                             <div id="timeText22" className='table-box' style={{   }}>
-                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
+                            <div id='myElement' className='upercaseall'> Четная неделя</div>
                             <table className="color2"> 
       
                                     <thead>
@@ -110,12 +110,12 @@ function AllRasp() {
                 <div id="timeText3" className='kvadrat'>
                 <div id="timeText31" className='table-box' style={{   }}>
                 <p className='upercase1'>Среда</p>
-                            <div id='myElement' className='upercaseall'> Четная неделя</div>
+                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
                             <div className='upercase3'>Занятий нет</div>
                             </div>
       
                             <div id="timeText32" className='table-box' style={{   }}>
-                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
+                            <div id='myElement' className='upercaseall'> Четная неделя</div>
                             <table className="color2"> 
       
                                     <thead>
@@ -152,7 +152,7 @@ function AllRasp() {
       
                     <div id="timeText41" className='table-box' style={{   }}>
                     <p className='upercase1'>Четверг</p>
-                            <div id='myElement' className='upercaseall'> Четная неделя</div>
+                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
                             <table className="color1"> 
       
                               <thead>
@@ -183,7 +183,7 @@ function AllRasp() {
                             </div>
       
                             <div id="timeText42" className='table-box' style={{   }}>
-                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
+                            <div id='myElement' className='upercaseall'> Четная неделя</div>
                             <table className="color2"> 
       
                                     <thead>
@@ -220,7 +220,7 @@ function AllRasp() {
       
                         <div id="timeText51" className='table-box' style={{   }}>
                         <p className='upercase1'>Пятница</p>
-                            <div id='myElement' className='upercaseall'> Четная неделя</div>
+                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
                             <table className="color1"> 
       
                               <thead>
@@ -251,7 +251,7 @@ function AllRasp() {
                             </div>
       
                             <div id="timeText52" className='table-box' style={{   }}>
-                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
+                            <div id='myElement' className='upercaseall'> Четная неделя</div>
                             <table className="color2"> 
       
                                     <thead>
@@ -288,7 +288,7 @@ function AllRasp() {
                             <div id="timeText6" className='table-container' style={{   }}> 
                             <div id="timeText61" className='table-box' style={{   }}>
                             <p className='upercase1'>Суббота</p>
-                            <div id='myElement' className='upercaseall'> Четная неделя</div>
+                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
                             <table className="color1"> 
       
                               <thead>
@@ -324,7 +324,7 @@ function AllRasp() {
                             </div>
       
                             <div id="timeText62" className='table-box' style={{   }}>
-                            <div id='myElement' className='upercaseall'> Нечетная неделя</div>
+                            <div id='myElement' className='upercaseall'> Четная неделя</div>
                             <table className="color2"> 
       
                                     <thead>

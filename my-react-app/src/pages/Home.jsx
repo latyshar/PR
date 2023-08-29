@@ -1,5 +1,6 @@
 import React from 'react'
 import Check from '../components/Check';
+import CheckT from '../components/CheckT';
 import TimeDisplay from '../components/TimeDisplay';
 import '../table.css';
 import '../App.css';
@@ -10,13 +11,15 @@ function Home () {
 
 <div className="center"> 
 <Navbar/>
-<Check />
+<Check/>
   <TimeDisplay /> 
- 
+  
+
 
   <div id="timeText1" style={{ display: 'none' }}>
+  
   <div id="timeText11" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Четная неделя</div>
+                    < Check/> <div id='myElement1' className='upercase'> Нечетная неделя</div>
                       <table className="color1"> 
 
                         <thead>
@@ -40,17 +43,18 @@ function Home () {
                       </div>
 
                       <div id="timeText12" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Нечетная неделя</div>
+                      <div id='myElement2' className='upercase'> Четная неделя</div>
                       <div className='upercase3'>Занятий нет</div>
                         </div>
 
 
   </div>
+  
 
       <div id="timeText2" style={{ display: 'none'}}>
 
       <div id="timeText21" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Четная неделя</div>
+      < CheckT/> <div id='myElement3' className='upercase'> Нечетная неделя</div>
                       <table className="color1"> 
 
                         <thead>
@@ -75,7 +79,7 @@ function Home () {
                       </div>
 
                       <div id="timeText22" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Нечетная неделя</div>
+                      <div id='myElement4' className='upercase'> Четная неделя</div>
                       <table className="color2"> 
 
                               <thead>
@@ -110,12 +114,12 @@ function Home () {
 
           <div id="timeText3" style={{ display: 'none'  }}>
           <div id="timeText31" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Четная неделя</div>
+                      <div id='myElement5' className='upercase'> Нечетная неделя</div>
                       <div className='upercase3'>Занятий нет</div>
                       </div>
 
                       <div id="timeText32" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Нечетная неделя</div>
+                      <div id='myElement6' className='upercase'> Четная неделя</div>
                       <table className="color2"> 
 
                               <thead>
@@ -151,7 +155,7 @@ function Home () {
               <div id="timeText4" style={{ display: 'none' }}>
 
               <div id="timeText41" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Четная неделя</div>
+                      <div id='myElement7' className='upercase'> Нечетная неделя</div>
                       <table className="color1"> 
 
                         <thead>
@@ -182,7 +186,7 @@ function Home () {
                       </div>
 
                       <div id="timeText42" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Нечетная неделя</div>
+                      <div id='myElement8' className='upercase'> Четная неделя</div>
                       <table className="color2"> 
 
                               <thead>
@@ -218,7 +222,7 @@ function Home () {
                   <div id="timeText5" style={{ display: 'none' }}>
 
                   <div id="timeText51" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Четная неделя</div>
+                      <div id='myElement9' className='upercase'> Нечетная неделя</div>
                       <table className="color1"> 
 
                         <thead>
@@ -249,7 +253,7 @@ function Home () {
                       </div>
 
                       <div id="timeText52" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Нечетная неделя</div>
+                      <div id='myElement10' className='upercase'> Четная неделя</div>
                       <table className="color2"> 
 
                               <thead>
@@ -285,7 +289,7 @@ function Home () {
 
                       <div id="timeText6" className='table-container' style={{ display: 'none' }}> 
                       <div id="timeText61" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Четная неделя</div>
+                      <div id='myElement11' className='upercase'> Нечетная неделя</div>
                       <table className="color1"> 
 
                         <thead>
@@ -321,7 +325,7 @@ function Home () {
                       </div>
 
                       <div id="timeText62" className='table-box' style={{ display: 'none' }}>
-                      <div id='myElement' className='upercase'> Нечетная неделя</div>
+                      <div id='myElement12' className='upercase'> Четная неделя</div>
                       <table className="color2"> 
 
                               <thead>
@@ -355,6 +359,8 @@ function Home () {
                           <div id="timeText7" style={{ display: 'none' }}>
                           <div className='upercase3'>Занятий нет</div>
                           </div> 
+                          
+                          
                           </div> 
   )
 }
