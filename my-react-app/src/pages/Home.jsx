@@ -1,6 +1,5 @@
 import React from 'react'
 import Check from '../components/Check';
-import CheckT from '../components/CheckT';
 import TimeDisplay from '../components/TimeDisplay';
 import '../table.css';
 import '../App.css';
