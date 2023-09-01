@@ -21,7 +21,7 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #ffffff69;
   font-weight:100;
   padding-top: 12px;
@@ -40,9 +40,9 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-  font-size: 18px;
-  color:#ffffff4a;
-  font-weight:100;
+  font-size: 16px;
+  color:#ffffff3f;
+  font-weight:700;
   padding: 10px;
 }
 .upercase3
