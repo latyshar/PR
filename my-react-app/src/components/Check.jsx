@@ -21,7 +21,7 @@ function Check (values = defaultValues) {
             document.getElementById('myElement11').classList.add('upercase1');    
 
 
-           
+      
 
     } else { 
         document.getElementById('myElement2').classList.add('upercase1');
@@ -30,7 +30,7 @@ function Check (values = defaultValues) {
         document.getElementById('myElement8').classList.add('upercase1');  
         document.getElementById('myElement10').classList.add('upercase1');  
         document.getElementById('myElement12').classList.add('upercase1');
-             
+            
         } 
         },
         [values] 

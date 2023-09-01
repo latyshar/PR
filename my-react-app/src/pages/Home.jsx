@@ -10,7 +10,7 @@ function Home () {
 
 <div className="center"> 
 <Navbar/>
-<Check/>
+
   <TimeDisplay /> 
   
 
@@ -18,7 +18,7 @@ function Home () {
   <div id="timeText1" style={{ display: 'none' }}>
   
   <div id="timeText11" className='table-box' style={{ display: 'none' }}>
-                    < Check/> <div id='myElement1' className='upercase'> Нечетная неделя</div>
+                     <div id='myElement1' className='upercase'> Нечетная неделя</div>
                       <table  id='table1' className="color1"> 
 
                         <thead>
