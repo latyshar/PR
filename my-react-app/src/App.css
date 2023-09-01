@@ -40,11 +40,22 @@ width: 100%;
 {
   text-transform: uppercase;
   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+  font-size: 18px;
+  color:#ffffff69;
+  font-weight: 700;
+  padding: 10px;
+}
+
+.upercase4
+{
+  text-transform: uppercase;
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
   font-size: 20px;
   color:#950740;
   font-weight:900;
-  padding: 10px;
+  padding-top: 10px;
 }
+
 .upercase3
 {
   text-transform: uppercase;
@@ -62,7 +73,7 @@ width: 100%;
   color:#ffffff69;
   text-decoration: underline #950740;
   font-weight: 700;
-  padding-top: 10px;
+  padding: 10px;
 }
 
 .center {
