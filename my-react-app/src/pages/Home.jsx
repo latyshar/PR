@@ -303,7 +303,7 @@ function Home () {
                           <tr>
                             <td data-label="№&nbsp;">1</td>
                             <td data-label="Предмет&nbsp;"><br/>Информационные технологии</td>
-                            <td data-label="Кабинет&nbsp;">224</td>
+                            <td data-label="Кабинет&nbsp;">116</td>
                             <td data-label="Время&nbsp;">10:05 - 11:30</td>
                           </tr>
                           <tr>
