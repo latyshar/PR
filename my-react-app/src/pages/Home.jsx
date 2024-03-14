@@ -32,13 +32,13 @@ function Home () {
                         <tbody>
                           <tr>
                             <td data-label="№&nbsp;">6</td>
-                            <td data-label="Предмет&nbsp;"><br/>Программирование (26.02, 25.03, 22.04, 20.05)</td>
+                            <td data-label="Предмет&nbsp;"><br/>Программирование ПР. (26.02, 25.03, 22.04, 20.05)</td>
                             <td data-label="Кабинет&nbsp;">331</td>
                             <td data-label="Время&nbsp;">18:30 - 20:00</td>
                           </tr>
                           <tr>
                             <td data-label="№&nbsp;">7</td>
-                            <td data-label="Предмет&nbsp;"><br/>Программирование (26.02, 25.03, 22.04, 20.05)</td>
+                            <td data-label="Предмет&nbsp;"><br/>Программирование ПР. (26.02, 25.03, 22.04, 20.05)</td>
                             <td data-label="Кабинет&nbsp;">331</td>
                             <td data-label="Время&nbsp;">20:10 - 21:40</td>
                           </tr>
