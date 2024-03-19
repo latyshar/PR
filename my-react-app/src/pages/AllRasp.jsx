@@ -232,7 +232,8 @@ function AllRasp() {
                             <div id="timeText42" className='table-box' style={{   }}>
                             <div id='myElement8' className='upercaseall'> Четная неделя</div>
                             <div className='upercase3'>Занятий нет</div>
-                              </div>
+                              
+                            </div></div>
       
                         <div id="timeText5" >
       
@@ -347,7 +348,7 @@ function AllRasp() {
                               </div>
                             </div>
                             </div>
-                                </div> 
+
       
   )
 }
