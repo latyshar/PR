@@ -26,21 +26,43 @@ function AllRasp() {
                                 </tr>
                               </thead>
                               <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Русс. яз. и культура речи</td>
-                                  <td data-label="Кабинет&nbsp;">116</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                          
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Программирование ПР. (26.02, 25.03, 22.04, 20.05)</td>
+                            <td data-label="Кабинет&nbsp;">331</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          <tr>
+                            <td data-label="№&nbsp;">7</td>
+                            <td data-label="Предмет&nbsp;"><br/>Программирование ПР. (26.02, 25.03, 22.04, 20.05)</td>
+                            <td data-label="Кабинет&nbsp;">331</td>
+                            <td data-label="Время&nbsp;">20:10 - 21:40</td>
+                          </tr>
+                        </tbody>
                             </table>
                             </div>
       
                             <div id="timeText12" className='table-box' style={{   }}>
                             <div id='myElement2' className='upercaseall'> Четная неделя</div>
-                            <div className='upercase3'>Занятий нет</div>
-
+                            <table className="color1"> 
+      
+      <thead>
+        <tr>
+          <th scope="col">№</th>
+          <th scope="col">Предмет</th>
+          <th scope="col">Кабинет</th>
+          <th scope="col">Время</th>
+        </tr>
+      </thead>
+      <tbody>
+                      <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Физика ЛЕКЦ.</td>
+                            <td data-label="Кабинет&nbsp;">308</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          </tbody>
+    </table>
                               </div>
       
       
@@ -62,15 +84,20 @@ function AllRasp() {
                                 </tr>
                               </thead>
                               <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Русс. яз. и культура речи</td>
-                                  <td data-label="Кабинет&nbsp;">008</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                         
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Медиадизайн (27.02, 26.03, 23.04, 21.05)</td>
+                            <td data-label="Кабинет&nbsp;">332</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          <tr>
+                          <td data-label="№&nbsp;">7</td>
+                            <td data-label="Предмет&nbsp;"><br/>Медиадизайн (27.02, 26.03, 23.04, 21.05)</td>
+                            <td data-label="Кабинет&nbsp;">332</td>
+                            <td data-label="Время&nbsp;">20:10 - 21:40</td>
+                          </tr>
+                      
+                        </tbody>
                             </table>
                             </div>
       
@@ -88,21 +115,21 @@ function AllRasp() {
                                     </thead>
                                     
                                     <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Иностранный яз.</td>
-                                  <td data-label="Кабинет&nbsp;">103</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">7</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Иностранный яз.</td>
-                                  <td data-label="Кабинет&nbsp;">103</td>
-                                  <td data-label="Время&nbsp;">20:10 - 21:40</td>
-                                </tr>
-                                
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Иностранный яз.</td>
+                            <td data-label="Кабинет&nbsp;">104</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">7</td>
+                            <td data-label="Предмет &nbsp;"><br/>Иностранный яз.</td>
+                            <td data-label="Кабинет&nbsp;">104</td>
+                            <td data-label="Время&nbsp;">20:10 - 21:40</td>
+                          </tr>
+                          
+                      
+                        </tbody>
                               </table>
                               </div>
       
@@ -112,7 +139,26 @@ function AllRasp() {
                 <div id="timeText31" className='table-box' style={{   }}>
                 <p className='upercase4'>Среда</p>
                             <div id='myElement5' className='upercaseall'> Нечетная неделя</div>
-                            <div className='upercase3'>Занятий нет</div>
+                            <table className="color2"> 
+      
+      <thead>
+        <tr>
+          <th scope="col">№</th>
+          <th scope="col">Предмет</th>
+          <th scope="col">Кабинет</th>
+          <th scope="col">Время</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+<tr>
+<td data-label="№&nbsp;">6</td>
+<td data-label="Предмет&nbsp;"><br/>Физика ЛАБ</td>
+<td data-label="Кабинет&nbsp;">029</td>
+<td data-label="Время&nbsp;">18:30 - 20:00</td>
+</tr>
+</tbody>
+</table>
                             </div>
       
                             <div id="timeText32" className='table-box' style={{   }}>
@@ -129,21 +175,21 @@ function AllRasp() {
                                     </thead>
                                     
                                     <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Комп. графика</td>
-                                  <td data-label="Кабинет&nbsp;">126</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">7</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Введение в медиадизайн</td>
-                                  <td data-label="Кабинет&nbsp;">126</td>
-                                  <td data-label="Время&nbsp;">20:10 - 21:40</td>
-                                </tr>
-                                
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Комп. графика</td>
+                            <td data-label="Кабинет&nbsp;">331</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">7</td>
+                            <td data-label="Предмет &nbsp;"><br/>Комп. графика</td>
+                            <td data-label="Кабинет&nbsp;">331</td>
+                            <td data-label="Время&nbsp;">20:10 - 21:40</td>
+                          </tr>
+                          
+                      
+                        </tbody>
                               </table>
                               </div>
       
@@ -165,90 +211,35 @@ function AllRasp() {
                                 </tr>
                               </thead>
                               <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Комп. графика</td>
-                                  <td data-label="Кабинет&nbsp;">126</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">7</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Комп. графика</td>
-                                  <td data-label="Кабинет&nbsp;">126</td>
-                                  <td data-label="Время&nbsp;">20:10 - 21:40</td>
-                                </tr>
-                                
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Математика ПР.</td>
+                            <td data-label="Кабинет&nbsp;">117</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">7</td>
+                            <td data-label="Предмет &nbsp;"><br/>Математика ПР.</td>
+                            <td data-label="Кабинет&nbsp;">117</td>
+                            <td data-label="Время&nbsp;">20:10 - 21:40</td>
+                          </tr>
+                          
+                      
+                        </tbody>
                             </table>
                             </div>
       
                             <div id="timeText42" className='table-box' style={{   }}>
                             <div id='myElement8' className='upercaseall'> Четная неделя</div>
-                            <table className="color2"> 
-      
-                                    <thead>
-                                      <tr>
-                                        <th scope="col">№</th>
-                                        <th scope="col">Предмет</th>
-                                        <th scope="col">Кабинет</th>
-                                        <th scope="col">Время</th>
-                                      </tr>
-                                    </thead>
-                                    
-                                    <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Математика</td>
-                                  <td data-label="Кабинет&nbsp;">308</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">7</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Математика</td>
-                                  <td data-label="Кабинет&nbsp;">308</td>
-                                  <td data-label="Время&nbsp;">20:10 - 21:40</td>
-                                </tr>
-                                
-                            
-                              </tbody>
-                              </table>
+                            <div className='upercase3'>Занятий нет</div>
                               </div>
-      
-                    </div>
       
                         <div id="timeText5" >
       
                         <div id="timeText51" className='table-box' style={{   }}>
                         <p className='upercase4'>Пятница</p>
                             <div id='myElement9' className='upercaseall'> Нечетная неделя</div>
-                            <table className="color1"> 
-      
-                              <thead>
-                                <tr>
-                                  <th scope="col">№</th>
-                                  <th scope="col">Предмет</th>
-                                  <th scope="col">Кабинет</th>
-                                  <th scope="col">Время</th>
-                                </tr>
-                              </thead>
-                              <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Основы рос. государства</td>
-                                  <td data-label="Кабинет&nbsp;">116</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">7</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Основы рос. государства</td>
-                                  <td data-label="Кабинет&nbsp;">116</td>
-                                  <td data-label="Время&nbsp;">20:10 - 21:40</td>
-                                </tr>
-                                
-                            
-                              </tbody>
-                            </table>
+                            <div className='upercase3'>Занятий нет</div>
                             </div>
       
                             <div id="timeText52" className='table-box' style={{   }}>
@@ -265,21 +256,21 @@ function AllRasp() {
                                     </thead>
                                     
                                     <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Введение в медиадизайн</td>
-                                  <td data-label="Кабинет&nbsp;">126</td>
-                                  <td data-label="Время&nbsp;">18:30 - 20:00</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">7</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Введение в медиадизайн</td>
-                                  <td data-label="Кабинет&nbsp;">126</td>
-                                  <td data-label="Время&nbsp;">20:10 - 21:40</td>
-                                </tr>
-                                
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">6</td>
+                            <td data-label="Предмет&nbsp;"><br/>Программирование ЛЕК. (09.02, 22.03, 05.04, 03.05)</td>
+                            <td data-label="Кабинет&nbsp;">126</td>
+                            <td data-label="Время&nbsp;">18:30 - 20:00</td>
+                          </tr>
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">7</td>
+                            <td data-label="Предмет &nbsp;"><br/>Программирование ЛЕК. (09.02, 22.03, 05.04, 03.05)</td>
+                            <td data-label="Кабинет&nbsp;">126</td>
+                            <td data-label="Время&nbsp;">20:10 - 21:40</td>
+                          </tr>
+                          
+                      
+                        </tbody>
                               </table>
                               </div>
       
@@ -301,26 +292,20 @@ function AllRasp() {
                                 </tr>
                               </thead>
                               <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">1</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Информационные технологии</td>
-                                  <td data-label="Кабинет&nbsp;">224</td>
-                                  <td data-label="Время&nbsp;">10:05 - 11:30</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">2</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Информационные технологии</td>
-                                  <td data-label="Кабинет&nbsp;">224</td>
-                                  <td data-label="Время&nbsp;">11:40 - 13:05</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№ ">&nbsp;3</td>
-                                  <td data-label="Предмет&nbsp;"><br/>История медиадизайна</td>
-                                  <td data-label="Кабинет&nbsp;">107</td>
-                                  <td data-label="Время&nbsp;">13:45 - 15:10</td>
-                                </tr>
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">2</td>
+                            <td data-label="Предмет&nbsp;"><br/>Философия ПР. (02.03, 30.03, 27.04, 25.05)</td>
+                            <td data-label="Кабинет&nbsp;">120</td>
+                            <td data-label="Время&nbsp;">10:05 - 11:30</td>
+                          </tr>
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">3</td>
+                            <td data-label="Предмет &nbsp;"><br/>Философия ПР. (02.03, 30.03, 27.04, 25.05)</td>
+                            <td data-label="Кабинет&nbsp;">120</td>
+                            <td data-label="Время&nbsp;">11:40 - 13:05</td>
+                          </tr>
+                    
+                        </tbody>
                             </table>
                             </div>
       
@@ -337,25 +322,31 @@ function AllRasp() {
                                       </tr>
                                     </thead>
                                     <tbody>
-                                <tr>
-                                  <td data-label="№&nbsp;">5</td>
-                                  <td data-label="Предмет&nbsp;"><br/>Математика</td>
-                                  <td data-label="Кабинет&nbsp;">227</td>
-                                  <td data-label="Время&nbsp;">15:20 - 16:45</td>
-                                </tr>
-                                <tr>
-                                  <td scope="row" data-label="№&nbsp;">6</td>
-                                  <td data-label="Предмет &nbsp;"><br/>Математика</td>
-                                  <td data-label="Кабинет&nbsp;">227</td>
-                                  <td data-label="Время&nbsp;">16:55 - 18:20</td>
-                                </tr>
-                        
-                            
-                              </tbody>
+                          <tr>
+                            <td data-label="№&nbsp;">2</td>
+                            <td data-label="Предмет&nbsp;"><br/>Математика ЛЕК</td>
+                            <td data-label="Кабинет&nbsp;">308</td>
+                            <td data-label="Время&nbsp;">10:05 - 11:30</td>
+                          </tr>
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">3</td>
+                            <td data-label="Предмет &nbsp;"><br/>Математика ЛЕк</td>
+                            <td data-label="Кабинет&nbsp;">308</td>
+                            <td data-label="Время&nbsp;">11:40 - 13:05</td>
+                          </tr>
+
+                          <tr>
+                            <td scope="row" data-label="№&nbsp;">4</td>
+                            <td data-label="Предмет &nbsp;"><br/>Философия ЛЕК.</td>
+                            <td data-label="Кабинет&nbsp;">116</td>
+                            <td data-label="Время&nbsp;">13:45 - 15:10</td>
+                          </tr>
+                      
+                        </tbody>
                               </table>
                               </div>
                             </div>
-      
+                            </div>
                                 </div> 
       
   )
