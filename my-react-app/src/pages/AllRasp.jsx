@@ -11,7 +11,7 @@ function AllRasp() {
     <Navbar/>
     <Check />
       
-        <div id="timeText1">
+        <div id="timeText1" className='pad'>
         <div id="timeText11" className='table-box' style={{   }}>
         <p className='upercase4'>Понедельник</p>
                             <div id='myElement1' className='upercaseall'> Нечетная неделя</div>
@@ -68,7 +68,7 @@ function AllRasp() {
       
         </div>
      
-            <div id="timeText2" className='kvadrat'>
+            <div id="timeText2" className='kvadrat pad'>
       
             <div id="timeText21" className='table-box' style={{   }}>
                 <p className='upercase4'>Вторник</p>
@@ -135,7 +135,7 @@ function AllRasp() {
       
             </div>
       
-                <div id="timeText3">
+                <div id="timeText3" className='pad'>
                 <div id="timeText31" className='table-box' style={{   }}>
                 <p className='upercase4'>Среда</p>
                             <div id='myElement5' className='upercaseall'> Нечетная неделя</div>
@@ -195,7 +195,7 @@ function AllRasp() {
       
                 </div>
       
-                    <div id="timeText4" className='kvadrat'>
+                    <div id="timeText4" className='kvadrat pad'>
       
                     <div id="timeText41" className='table-box' style={{   }}>
                     <p className='upercase4'>Четверг</p>
@@ -235,7 +235,7 @@ function AllRasp() {
                               
                             </div></div>
       
-                        <div id="timeText5" >
+                        <div id="timeText5" className='pad'>
       
                         <div id="timeText51" className='table-box' style={{   }}>
                         <p className='upercase4'>Пятница</p>
@@ -278,7 +278,7 @@ function AllRasp() {
       
                         </div>
       
-                            <div id="timeText6" className='kvadrat'> 
+                            <div id="timeText6" className='kvadrat pad'> 
                             <div id="timeText61" className='table-box' style={{   }}>
                             <p className='upercase4'>Суббота</p>
                             <div id='myElement11' className='upercaseall'> Нечетная неделя</div>

@@ -9,13 +9,15 @@ function Navbar() {
     <div className="mainNav">
     <div className=" mainNav__logo ">
     <div className='up'>
-    <div className="milky">1-ТИВ-3</div>
-    <div className='margin'>
+    
+    <div className='milky'>
     <Link className='text m' to="/raspisanie">Все дни</Link> 
-    <Link className='text m' to="/">Сегодня</Link></div>
+     1-ТИВ-3
+    <Link className='text m' to="/">Сегодня</Link>
+    </div>
+  
     </div>
     </div>
-
  </div>
   )
 }

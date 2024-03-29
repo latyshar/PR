@@ -21,7 +21,7 @@ const formattedTime = `Сегодня ${weekday}, ${month} ${day} число!`;
 
 let now = new Date();
 let onejan = new Date(now.getFullYear(), 0, 1);
-let week = Math.ceil((((now.getTime() - onejan.getTime()) / 86400000) + onejan.getDay() + 1) / 7);
+let week = Math.ceil((((now.getTime() - onejan.getTime()) / 86400000) + onejan.getDay()) / 7);
 
 console.log(week);
 
