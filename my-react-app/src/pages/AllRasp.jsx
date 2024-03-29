@@ -57,7 +57,7 @@ function AllRasp() {
       <tbody>
                       <tr>
                             <td data-label="№&nbsp;">6</td>
-                            <td data-label="Предмет&nbsp;"><br/>Физика ЛЕКЦ.</td>
+                            <td data-label="Предмет&nbsp;"><br/>Физика ЛЕК.</td>
                             <td data-label="Кабинет&nbsp;">308</td>
                             <td data-label="Время&nbsp;">18:30 - 20:00</td>
                           </tr>
@@ -153,7 +153,7 @@ function AllRasp() {
       <tbody>
 <tr>
 <td data-label="№&nbsp;">6</td>
-<td data-label="Предмет&nbsp;"><br/>Физика ЛАБ</td>
+<td data-label="Предмет&nbsp;"><br/>Физика ЛАБ.</td>
 <td data-label="Кабинет&nbsp;">029</td>
 <td data-label="Время&nbsp;">18:30 - 20:00</td>
 </tr>
@@ -325,13 +325,13 @@ function AllRasp() {
                                     <tbody>
                           <tr>
                             <td data-label="№&nbsp;">2</td>
-                            <td data-label="Предмет&nbsp;"><br/>Математика ЛЕК</td>
+                            <td data-label="Предмет&nbsp;"><br/>Математика ЛЕК.</td>
                             <td data-label="Кабинет&nbsp;">308</td>
                             <td data-label="Время&nbsp;">10:05 - 11:30</td>
                           </tr>
                           <tr>
                             <td scope="row" data-label="№&nbsp;">3</td>
-                            <td data-label="Предмет &nbsp;"><br/>Математика ЛЕк</td>
+                            <td data-label="Предмет &nbsp;"><br/>Математика ЛЕК.</td>
                             <td data-label="Кабинет&nbsp;">308</td>
                             <td data-label="Время&nbsp;">11:40 - 13:05</td>
                           </tr>
